@@ -48,6 +48,8 @@ python detect.py --source "Path of the images in which you want to detect the Ob
 After Running this Command The Output images will be again in the runs Folder
 
 The Diference Between Before Detection and After Can be seen below:
+
+
 ![alt text](https://user-images.githubusercontent.com/47482315/131216590-bc881704-c599-4295-b60a-191fa65af33b.png)
 ![alt text](https://user-images.githubusercontent.com/47482315/131216617-065dd4d6-db68-4fec-8d7a-c0a2c2ce9c44.png)
 
