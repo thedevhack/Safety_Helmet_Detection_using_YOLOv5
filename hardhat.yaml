@@ -1,0 +1,4 @@
+train: E:/Python_Projects/HardHat/hats_data/images/train
+val: E:/Python_Projects/HardHat/hats_data/images/validation
+nc: 2
+name: ["head", "helmet"]
