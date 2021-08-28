@@ -20,7 +20,7 @@ After Placing the Images and Labels in the Dataset Folder
 
 Edit the Config.Yaml file in our Repository
 
-https://user-images.githubusercontent.com/47482315/131216143-13c960b5-838c-426f-b038-21d6fd45e11f.png
+![alt text](https://user-images.githubusercontent.com/47482315/131216143-13c960b5-838c-426f-b038-21d6fd45e11f.png)
 
 As in above image we can see the File contains 4 parameters to be changed 
 1)Training images Path:This Should be something like "Project/Dataset/images/train"
@@ -48,6 +48,6 @@ python detect.py --source "Path of the images in which you want to detect the Ob
 After Running this Command The Output images will be again in the runs Folder
 
 The Diference Between Before Detection and After Can be seen below:
-https://user-images.githubusercontent.com/47482315/131216590-bc881704-c599-4295-b60a-191fa65af33b.png
-https://user-images.githubusercontent.com/47482315/131216617-065dd4d6-db68-4fec-8d7a-c0a2c2ce9c44.png
+![alt text](https://user-images.githubusercontent.com/47482315/131216590-bc881704-c599-4295-b60a-191fa65af33b.png)
+![alt text](https://user-images.githubusercontent.com/47482315/131216617-065dd4d6-db68-4fec-8d7a-c0a2c2ce9c44.png)
 
