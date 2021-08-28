@@ -8,13 +8,7 @@ YOLOv5 Format is shown Below
 
 The Folder Structure of Dataser Folder Should be like
 
-Dataset
---images
-----train
-----validation
---labels
-----train
-----validation
+![alt text](https://user-images.githubusercontent.com/47482315/131216714-6c11e325-808f-4917-9d65-7f267ec78ebe.png)
 
 After Placing the Images and Labels in the Dataset Folder
 
