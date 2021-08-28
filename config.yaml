@@ -1,4 +1,4 @@
 train: Path of Training Images(Ex.E:Project/dataset/images/train)
 val: Path of Validation Images(Ex.E:Project/dataset/images/validation)
-nc: 2 (The number of classes of objects you want to detect like in Safety Helmet it was 2"head" "helmet")
+nc: 2 (The number of classes of objects you want to detect and their names below)
 name: ["head", "helmet"]
